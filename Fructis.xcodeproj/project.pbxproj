@@ -16,6 +16,7 @@
 		00482DB825A139AA00FF8B61 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00482DB725A139AA00FF8B61 /* OnboardingView.swift */; };
 		00482DBC25A13B3700FF8B61 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00482DBB25A13B3700FF8B61 /* FruitModel.swift */; };
 		00482DC125A13BF000FF8B61 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00482DC025A13BF000FF8B61 /* FruitData.swift */; };
+		00482DC525A1416000FF8B61 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00482DC425A1416000FF8B61 /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		00482DB725A139AA00FF8B61 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		00482DBB25A13B3700FF8B61 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		00482DC025A13BF000FF8B61 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		00482DC425A1416000FF8B61 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				00482DB025A131C600FF8B61 /* FruitCardView.swift */,
 				00482DB425A136B500FF8B61 /* StartButtonView.swift */,
+				00482DC425A1416000FF8B61 /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				00482DC125A13BF000FF8B61 /* FruitData.swift in Sources */,
 				00482DB125A131C600FF8B61 /* FruitCardView.swift in Sources */,
+				00482DC525A1416000FF8B61 /* FruitRowView.swift in Sources */,
 				00482DB525A136B500FF8B61 /* StartButtonView.swift in Sources */,
 				00482D9F25A12BA900FF8B61 /* ContentView.swift in Sources */,
 				00482DB825A139AA00FF8B61 /* OnboardingView.swift in Sources */,
