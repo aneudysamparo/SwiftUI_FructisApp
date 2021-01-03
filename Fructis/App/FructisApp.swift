@@ -12,6 +12,10 @@ struct FructisApp: App {
     
     @AppStorage("isOnboarding") var isOnboarding: Bool = true
     
+    init() {
+        isOnboarding = true
+    }
+    
     var body: some Scene {
         WindowGroup {
             if isOnboarding {
